@@ -1,15 +1,15 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
-    "success_url": "https://aquabot.ga",
+    "name": "twinsym",
+    "description": "TWINSYM NEEDS YOUR SUPPORT.",
+    "logo": "https://ibb.co/ngcLGHD/twinsym.jpg",
+    "keywords": ["whatsapp", "twins", "ym", "bot", "twinsym" , "twinsymbot" ],
+    "repository": "https://github.com/sanuwaofficial/twinsym",
+    "website":   "https://twinsym.ma/",
+    "success_url": "https://twinsym.ma",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
-            "description": "",
+            "TWINSYM_SESSION": {
+            "description": "ALL FOR YOU",
             "required": true
              },
             "NO_ONLINE": {
@@ -55,7 +55,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://www.instagram.com/elpotlood/" ,
             "required": true
       },
      "URL_2NAME": {
@@ -70,7 +70,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 TWINSYM AMARIR&MEHDI2023" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 TWINSYM 2023,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,47 +100,47 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://ibb.co/P9Lt74F.jpg" ,
             "required": true
       },
       "DEPLOYER": {
             "description": "",
-            "value": "AQUA USER" ,
+            "value": "TWINSYM USER" ,
             "required": true
       },
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥لاديش عليا كنتعطل مرة مرة...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤 هانا ها أش لقيت (الموسيقى و الأغاني لا نتحمل وزرها يوم القيامة ❤️🥀)...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥بغيتيه أمبورتي ولا تديه معك هههه هيا نيت حيث معندناش ديك لعيبة تاع تاكلو هنا...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤ها سلعتك أخويا و متنسناش بشي ابوني ديما الجديد ان شاء الله...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥هاك ها ضوسيك جاي ...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤دير معاه شي اربعمية باش يتقبل دغيا  ...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "AMARIR&MEHDI" ,
             "required": true
       },
           "WORK_TYPE": {
