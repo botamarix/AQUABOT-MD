@@ -3,7 +3,7 @@ our instagram FOLLOW WE PLZ www.instagram.com/elpotlood/ الى لقيتي اي 
  ### ❤️🤯
   ### REPL IT QR CODE HERE ...
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@TwinsYM/TWINSYM?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@twinsym/TWINS-YM?v=1)
 
 ## DEPLYO HEROKU ...
 
